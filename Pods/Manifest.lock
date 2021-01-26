@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.1)
+  - SWXMLHash (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - SWXMLHash (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  SWXMLHash: 9cc0c2e4807926c74377724aa8722ee5707a0485
+
+PODFILE CHECKSUM: b3f8bce823e5aa703e2d352afce9c964cb13c849
+
+COCOAPODS: 1.10.1
